@@ -1,0 +1,5 @@
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Generics\bin\Debug\Base_Generics.exe
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Generics\bin\Debug\Base_Generics.pdb
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Generics\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Generics\obj\x86\Debug\Base_Generics.exe
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Generics\obj\x86\Debug\Base_Generics.pdb

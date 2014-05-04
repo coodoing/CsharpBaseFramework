@@ -1,0 +1,5 @@
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Nullable\bin\Debug\Base_Nullable.exe
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Nullable\bin\Debug\Base_Nullable.pdb
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Nullable\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Nullable\obj\x86\Debug\Base_Nullable.exe
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Nullable\obj\x86\Debug\Base_Nullable.pdb

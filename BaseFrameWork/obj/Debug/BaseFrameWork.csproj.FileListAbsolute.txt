@@ -1,0 +1,5 @@
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\BaseFrameWork\bin\BaseFrameWork.dll
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\BaseFrameWork\bin\BaseFrameWork.pdb
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\BaseFrameWork\obj\Debug\ResolveAssemblyReference.cache
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\BaseFrameWork\obj\Debug\BaseFrameWork.dll
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\BaseFrameWork\obj\Debug\BaseFrameWork.pdb

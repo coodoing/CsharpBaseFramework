@@ -1,0 +1,5 @@
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Delegate\bin\Debug\Base_Delegate.exe
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Delegate\bin\Debug\Base_Delegate.pdb
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Delegate\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Delegate\obj\x86\Debug\Base_Delegate.exe
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_Delegate\obj\x86\Debug\Base_Delegate.pdb

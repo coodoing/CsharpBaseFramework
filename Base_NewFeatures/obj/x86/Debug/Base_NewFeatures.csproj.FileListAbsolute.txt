@@ -1,0 +1,5 @@
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_NewFeatures\bin\Debug\Base_NewFeatures.exe
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_NewFeatures\bin\Debug\Base_NewFeatures.pdb
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_NewFeatures\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_NewFeatures\obj\x86\Debug\Base_NewFeatures.exe
+D:\Programming\MS\MSLearn\Web\BaseFrameWork\Base_NewFeatures\obj\x86\Debug\Base_NewFeatures.pdb
